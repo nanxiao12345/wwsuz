@@ -2,8 +2,8 @@
 **practice using ffmpeg command**
 
 ## FFmpeg plan list
-1. [] Basic transcode
-2. [] Probe media information(尝试理解输出的分辨率 、码率、编码格式等信息)
+1. [x] Basic transcode
+2. [x] Probe media information(尝试理解输出的分辨率 、码率、编码格式等信息)
 3. [] Grasp encoder control(学会手动指定编码器，理解不同编码器的区别。)
     - Check encoder
     - Designed video encoder transcoding
