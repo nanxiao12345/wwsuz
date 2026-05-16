@@ -4,11 +4,11 @@
 ## FFmpeg plan list
 1. [x] Basic transcode
 2. [x] Probe media information(尝试理解输出的分辨率 、码率、编码格式等信息)
-3. [] Grasp encoder control(学会手动指定编码器，理解不同编码器的区别。)
+3. [x] Grasp encoder control(学会手动指定编码器，理解不同编码器的区别。)
     - Check encoder
     - Designed video encoder transcoding
     - Designed audio encoder
-4. [] Viedo cropping and scaling(掌握视频的时间和空间裁剪技能)
+4. [x] Viedo cropping and scaling(掌握视频的时间和空间裁剪技能)
     - Time croppng
     - Aspect rate scaling
     - Combination operation
