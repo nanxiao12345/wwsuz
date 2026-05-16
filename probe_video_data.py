@@ -17,6 +17,7 @@ def check_video_quality(file_path):
         result = subprocess.run(cmd, capture_output=True, text=True, check=True)
         data = json.loads(result.stdout)
         
+        
         # 解析数据
         video_stream = next((s for s in data['streams'] if s['codec_type'] == 'video'), None)
         duration = float(data['format']['duration'])
