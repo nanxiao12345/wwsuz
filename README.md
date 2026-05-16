@@ -12,13 +12,13 @@
     - Time croppng
     - Aspect rate scaling
     - Combination operation
-5. [] Audio and video separation and extraction(学会从视频中提取音频，或将音视频合并。)
+5. [x] Audio and video separation and extraction(学会从视频中提取音频，或将音视频合并。)
     - Audio Extraction
-    - Extract audio and convert  format
+    - Extract audio and convert format
     - Extract video without sound 
     - Merge audio and video
-6. [] FFplay exploration
-7. [] 复盘 + 综合练习(独立完成下述5步，并在不查资料的情况下解释每个参数的含义)
+6. [x] FFplay exploration
+7. [x] 复盘 + 综合练习(独立完成下述5步，并在不查资料的情况下解释每个参数的含义)
     - 查看该视频的编码信息（使用ffprobe）
     - 截取视频的第10-20秒片段
     - 将该片段缩放到640x360分辨率
